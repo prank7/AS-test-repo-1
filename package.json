@@ -1,0 +1,11 @@
+{
+  "name": "as-test-repo",
+  "version": "1.0.0",
+  "description": "AS TEST REPO",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
